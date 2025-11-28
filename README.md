@@ -1,2 +1,16 @@
-# Peng.dev-personal-web-developer-portofolio
-Questo progetto rappresenta la mia pagina personale come Web Developer, progettata per presentarmi in modo professionale e mettere in risalto competenze, percorso e portfolio. Il sito è stato realizzato seguendo principi di design moderno, performance e accessibilità, utilizzando tecnologie front-end come HTML, CSS, Sass e Bootstrap.
+Personal Web Developer Portfolio This project is a personal website created to present myself as a Web Developer and showcase my main projects through a clean, modern, and responsive portfolio.
+
+Features
+
+Personal introduction page
+Portfolio section displaying my projects
+Fully responsive layout for all devices
+Modern design built with Bootstrap
+Custom styles using SASS
+Technologies Used
+
+HTML5
+CSS3
+SASS
+Bootstrap 5
+Author Hai Peng Wang web developer GitHub: Peng-git04
